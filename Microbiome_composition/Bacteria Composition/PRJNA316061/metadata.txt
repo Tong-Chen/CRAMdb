@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR3289690	Health	PRJNA316061	SAMN04574178	Seoul	Korea	GAGTTTGATCMTGGCTCAG	WTTACCGCGGCTGCTGG	Drosophila melanogaster	454 GS FLX Titanium	V3-V4

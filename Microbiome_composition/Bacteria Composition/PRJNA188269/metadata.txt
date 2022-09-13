@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR656254	Health	PRJNA188269	SAMN01908703	Hong Kong	China	CCTACGGGAGGCAGCAG	CCGTCAATTCCTTTRAGTTT	Haliclona cymaeformis	454 GS FLX Titanium	V3-V5
+SRR656312	Health	PRJNA188269	SAMN01908703	Hong Kong	China	CCTACGGGAGGCAGCAG	CCGTCAATTCCTTTRAGTTT	Haliclona cymaeformis	454 GS FLX Titanium	V3-V5

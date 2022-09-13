@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR17251687	Health	PRJNA788989	SAMN24045376	Auckland	New Zealand	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Perna canaliculus	Illumina MiSeq	V3-V4
+SRR17251698	Health	PRJNA788989	SAMN24045375	Auckland	New Zealand	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Perna canaliculus	Illumina MiSeq	V3-V4
+SRR17251709	Health	PRJNA788989	SAMN24045374	Auckland	New Zealand	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Perna canaliculus	Illumina MiSeq	V3-V4
+SRR17251721	Health	PRJNA788989	SAMN24045372	Auckland	New Zealand	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Perna canaliculus	Illumina MiSeq	V3-V4

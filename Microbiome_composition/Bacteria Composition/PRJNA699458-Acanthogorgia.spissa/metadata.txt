@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR13627693	Health	PRJNA699458	SAMN17777244	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Acanthogorgia spissa	Illumina MiSeq	V3-V4
+SRR13627694	Health	PRJNA699458	SAMN17777243	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Acanthogorgia spissa	Illumina MiSeq	V3-V4
+SRR13627695	Health	PRJNA699458	SAMN17777242	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Acanthogorgia spissa	Illumina MiSeq	V3-V4
+SRR13627696	Health	PRJNA699458	SAMN17777241	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Acanthogorgia spissa	Illumina MiSeq	V3-V4

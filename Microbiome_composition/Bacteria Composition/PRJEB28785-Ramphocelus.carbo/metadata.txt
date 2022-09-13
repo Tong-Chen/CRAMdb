@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR2815064	Health	PRJEB28785	SAMEA4946238	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Ramphocelus carbo	Illumina HiSeq 2500	V4

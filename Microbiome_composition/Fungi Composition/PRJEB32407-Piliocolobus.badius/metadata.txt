@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313766	Health	PRJEB32407	SAMEA5596984	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Piliocolobus badius	Illumina MiSeq	V4
+ERR3313767	Health	PRJEB32407	SAMEA5596985	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Piliocolobus badius	Illumina MiSeq	V4
+ERR3313768	Health	PRJEB32407	SAMEA5596986	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Piliocolobus badius	Illumina MiSeq	V4
+ERR3313769	Health	PRJEB32407	SAMEA5596987	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Piliocolobus badius	Illumina MiSeq	V4
+ERR3313770	Health	PRJEB32407	SAMEA5596988	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Piliocolobus badius	Illumina MiSeq	V4

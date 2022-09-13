@@ -1,0 +1,51 @@
+Scientific name	Host status	SampleID	Platform	Project Accession
+Baikalospongia bacillifera	Health	SRR10281038	Illumina MiSeq	PRJNA577390
+Cygnus atratus	Health	SRR10874028	Illumina MiSeq	PRJNA600556
+Lophura nycthemera	Health	SRR10875081	Illumina MiSeq	PRJNA600556
+Ramphastidae	Health	SRR10875591	Illumina MiSeq	PRJNA600556
+Oryctolagus cuniculus domesticus	Health	SRR11234097	Illumina MiSeq	PRJNA609390
+Myotis californicus	Health	SRR12179521	Illumina MiSeq	PRJNA565775
+Myotis yumanensis	Health	SRR12179527	Illumina MiSeq	PRJNA565775
+Tadarida brasiliensis	Health	SRR12179528	Illumina MiSeq	PRJNA565775
+Corynorhinus townsendii	Health	SRR12179530	Illumina MiSeq	PRJNA565775
+Zygodontomys  brevicauda	Health	SRR12203304	Illumina MiSeq	PRJNA645177
+Hylaeamys  megacephalus	Health	SRR12203308	Illumina MiSeq	PRJNA645177
+Oecomys  bicolor	Health	SRR12203310	Illumina MiSeq	PRJNA645177
+Nyctereutes procyonoides	Health	SRR12737645	Illumina MiSeq	PRJNA666241
+Elaphodus cephalophus	Health	SRR13862214	Illumina MiSeq	PRJNA705580
+Culiseta longiareolata	Health	SRR14288195	Illumina MiSeq	PRJNA723282
+Culex pipiens	Health	SRR14288197	Illumina MiSeq	PRJNA723282
+Aedes albopictus	Health	SRR14288199	Illumina MiSeq	PRJNA723282
+Phrynocephalus erythrurus	Health	SRR15533047	Illumina MiSeq	PRJNA730196
+Phrynocephalus theobaldi	Health	SRR15533106	Illumina MiSeq	PRJNA730196
+Anas platyrhynchos	Health	SRR2948716	Illumina MiSeq	PRJNA302767
+Molossus molossus	Health	SRR4201718	Illumina MiSeq	PRJNA341472
+Desmodus rotundus	Health	SRR4201721	Illumina MiSeq	PRJNA341472
+Ailuropoda melanoleuca	Health	SRR5644066	Illumina MiSeq	PRJNA345639
+Spatula clypeata	Health	SRR7015564	Illumina MiSeq	PRJNA449682
+Spatula discors	Health	SRR7015566	Illumina MiSeq	PRJNA449682
+Spatula cyanoptera	Health	SRR7015567	Illumina MiSeq	PRJNA449682
+Mareca strepera	Health	SRR7015568	Illumina MiSeq	PRJNA449682
+Mareca americana	Health	SRR7015572	Illumina MiSeq	PRJNA449682
+wild Grus japonensis	Health	SRR7285959	Illumina MiSeq	PRJNA471758
+Mustela lutreola	Health	SRR7286035	Illumina MiSeq	PRJNA453629
+Procyon lotor	Health	SRR7286059	Illumina MiSeq	PRJNA453126
+Vulpes vulpes fulva	Health	SRR7286071	Illumina MiSeq	PRJNA451425
+Charmosyna josefinae	Health	SRR7286074	Illumina MiSeq	PRJNA471756
+Macaca mulatta	Health	SRR7286976	Illumina MiSeq	PRJNA471931
+Ailurus fulgens	Health	SRR7287176	Illumina MiSeq	PRJNA471359
+Canis lupus familiaris	Health	SRR7287177	Illumina MiSeq	PRJNA473018
+Elaphurus davidianus	Health	SRR7287263	Illumina MiSeq	PRJNA471930
+Moschus moschiferus	Health	SRR7287286	Illumina MiSeq	PRJNA471970
+Bos grunniens	Health	SRR7287333	Illumina MiSeq	PRJNA471984
+Branta canadensis	Health	SRR7287334	Illumina MiSeq	PRJNA471976
+Paguma larvata	Health	SRR7287341	Illumina MiSeq	PRJNA471973
+Gallus domesticus	Health	SRR7287609	Illumina MiSeq	PRJNA471974
+Phoenicopteridae	Health	SRR7287610	Illumina MiSeq	PRJNA471979
+wild Rattus norvegicus	Health	SRR7287617	Illumina MiSeq	PRJNA471986
+Egretta garzetta	Health	SRR7288010	Illumina MiSeq	PRJNA471978
+Susscrofa domestica	Health	SRR7288018	Illumina MiSeq	PRJNA473022
+Ostrea gigas 	Health	SRR7288042	Illumina MiSeq	PRJNA471949
+Pan troglodytes	Health	SRR7288047	Illumina MiSeq	PRJNA473023
+Bos taurus	Health	SRR7292997	Illumina MiSeq	PRJNA471981
+Columba livia	Health	SRR824148	Illumina MiSeq	PRJNA196750

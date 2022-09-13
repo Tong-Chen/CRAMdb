@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9943728	Health	PRJNA559605	SAMN12548375	Bhopal	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGGC	Panthera leo	Illumina NextSeq 500	V3
+SRR9943729	Health	PRJNA559605	SAMN12548374	Bhopal	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGGC	Panthera leo	Illumina NextSeq 500	V3
+SRR9943753	Health	PRJNA559605	SAMN12548376	Bhopal	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGGC	Panthera leo	Illumina NextSeq 500	V3

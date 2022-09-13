@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313714	Health	PRJEB32407	SAMEA5596932	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Ateles hybridus	Illumina MiSeq	V4
+ERR3313715	Health	PRJEB32407	SAMEA5596933	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Ateles hybridus	Illumina MiSeq	V4

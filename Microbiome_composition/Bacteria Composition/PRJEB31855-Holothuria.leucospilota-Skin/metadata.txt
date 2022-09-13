@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3250155	Health	PRJEB31855	SAMEA5535688	Wilhelmshaven	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Holothuria leucospilota	Illumina MiSeq	V4

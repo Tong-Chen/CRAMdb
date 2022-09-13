@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313744	Health	PRJEB32407	SAMEA5596962	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Theropithecus gelada	Illumina MiSeq	V4
+ERR3313746	Health	PRJEB32407	SAMEA5596964	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Theropithecus gelada	Illumina MiSeq	V4
+ERR3313747	Health	PRJEB32407	SAMEA5596965	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Theropithecus gelada	Illumina MiSeq	V4
+ERR3313748	Health	PRJEB32407	SAMEA5596966	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Theropithecus gelada	Illumina MiSeq	V4
+ERR3313749	Health	PRJEB32407	SAMEA5596967	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Theropithecus gelada	Illumina MiSeq	V4

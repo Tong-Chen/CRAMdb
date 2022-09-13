@@ -1,0 +1,8 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR3492805	Health	PRJNA320969	SAMN04964081	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4
+SRR3492810	Health	PRJNA320969	SAMN04964086	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4
+SRR3492811	Health	PRJNA320969	SAMN04964087	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4
+SRR3492812	Health	PRJNA320969	SAMN04964088	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4
+SRR3492813	Health	PRJNA320969	SAMN04964089	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4
+SRR3492814	Health	PRJNA320969	SAMN04964090	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4
+SRR3492815	Health	PRJNA320969	SAMN04964091	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lissotriton helveticus	Illumina MiSeq	V4

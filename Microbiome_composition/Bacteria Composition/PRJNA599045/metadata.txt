@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR10829558	Health	PRJNA599045	SAMN13738072	Nanning	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Pavona decussate	Illumina MiSeq	V3-V4
+SRR10829559	Health	PRJNA599045	SAMN13738071	Nanning	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Pavona decussate	Illumina MiSeq	V3-V4
+SRR10829560	Health	PRJNA599045	SAMN13738070	Nanning	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Pavona decussate	Illumina MiSeq	V3-V4

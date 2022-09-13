@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR17015069	Health	PRJNA781598	SAMN23283066	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Halichondria panicea	Illumina MiSeq	V3-V4
+SRR17015070	Health	PRJNA781598	SAMN23283065	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Halichondria panicea	Illumina MiSeq	V3-V4
+SRR17015083	Health	PRJNA781598	SAMN23283067	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Halichondria panicea	Illumina MiSeq	V3-V4

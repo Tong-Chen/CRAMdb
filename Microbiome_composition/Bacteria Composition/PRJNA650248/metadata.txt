@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR12378074	Health	PRJNA650248	SAMN15700760	Beijing	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Otis tarda	Illumina MiSeq	V3-V4

@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9047035	Health	PRJNA542570	SAMN11633699	Kunming	China	GTGCCAGCMGCCGCGG	CCGTCAATTCMTTTRAGTTT	Sinocyclocheilus bicornutus	Illumina MiSeq	V4-V5

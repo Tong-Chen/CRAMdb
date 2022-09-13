@@ -1,0 +1,13 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR16312748	Health	PRJNA616141	SAMN22244809	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312749	Health	PRJNA616141	SAMN22244808	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312755	Health	PRJNA616141	SAMN22244823	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312756	Health	PRJNA616141	SAMN22244822	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312760	Health	PRJNA616141	SAMN22244819	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312761	Health	PRJNA616141	SAMN22244818	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312764	Health	PRJNA616141	SAMN22244815	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312765	Health	PRJNA616141	SAMN22244814	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312766	Health	PRJNA616141	SAMN22244813	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312767	Health	PRJNA616141	SAMN22244812	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312768	Health	PRJNA616141	SAMN22244811	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4
+SRR16312769	Health	PRJNA616141	SAMN22244810	Zvornik	Bosnia and Herzegovina	TACGGGAGGCAGCAG	CCAGGGTATCTAATCC	Drosophila subobscura	Illumina MiSeq	V3-V4

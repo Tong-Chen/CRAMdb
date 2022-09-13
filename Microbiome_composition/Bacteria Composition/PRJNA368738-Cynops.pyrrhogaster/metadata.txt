@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5202782	Health	PRJNA368738	SAMN06270927	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Cynops pyrrhogaster	Illumina MiSeq	V4
+SRR5202783	Health	PRJNA368738	SAMN06270985	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Cynops pyrrhogaster	Illumina MiSeq	V4
+SRR5202784	Health	PRJNA368738	SAMN06270926	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Cynops pyrrhogaster	Illumina MiSeq	V4
+SRR5202785	Health	PRJNA368738	SAMN06270984	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Cynops pyrrhogaster	Illumina MiSeq	V4
+SRR5202786	Health	PRJNA368738	SAMN06270925	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Cynops pyrrhogaster	Illumina MiSeq	V4

@@ -1,0 +1,8 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR15091450	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4
+SRR15091451	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4
+SRR15091452	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4
+SRR15091453	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4
+SRR15091454	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4
+SRR15091455	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4
+SRR15091456	Health	PRJNA744215	SAMN20082401	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis valida	Illumina MiSeq	V4

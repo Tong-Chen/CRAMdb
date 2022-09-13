@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5328921	Health	PRJNA378168	SAMN06554427	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Tylonycteris pachypus	Illumina HiSeq 2500	V4

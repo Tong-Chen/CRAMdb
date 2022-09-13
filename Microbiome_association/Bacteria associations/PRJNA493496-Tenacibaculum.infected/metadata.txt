@@ -1,0 +1,16 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR7908733	Health	PRJNA493496	SAMN10134873	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908734	Health	PRJNA493496	SAMN10134874	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908735	Health	PRJNA493496	SAMN10134871	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908736	Health	PRJNA493496	SAMN10134872	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908737	Health	PRJNA493496	SAMN10134877	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908738	Tenacibaculum.infected	PRJNA493496	SAMN10134878	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908739	Health	PRJNA493496	SAMN10134875	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908740	Health	PRJNA493496	SAMN10134876	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908742	Tenacibaculum.infected	PRJNA493496	SAMN10134902	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908746	Tenacibaculum.infected	PRJNA493496	SAMN10134900	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908753	Tenacibaculum.infected	PRJNA493496	SAMN10134891	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908754	Tenacibaculum.infected	PRJNA493496	SAMN10134898	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908757	Tenacibaculum.infected	PRJNA493496	SAMN10134895	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908766	Tenacibaculum.infected	PRJNA493496	SAMN10134881	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908770	Tenacibaculum.infected	PRJNA493496	SAMN10134885	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3

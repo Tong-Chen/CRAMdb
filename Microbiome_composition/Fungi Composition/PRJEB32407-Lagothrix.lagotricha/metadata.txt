@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313750	Health	PRJEB32407	SAMEA5596968	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Lagothrix lagotricha	Illumina MiSeq	V4
+ERR3313751	Health	PRJEB32407	SAMEA5596969	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Lagothrix lagotricha	Illumina MiSeq	V4
+ERR3313752	Health	PRJEB32407	SAMEA5596970	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Lagothrix lagotricha	Illumina MiSeq	V4
+ERR3313753	Health	PRJEB32407	SAMEA5596971	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Lagothrix lagotricha	Illumina MiSeq	V4
+ERR3313754	Health	PRJEB32407	SAMEA5596972	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Lagothrix lagotricha	Illumina MiSeq	V4

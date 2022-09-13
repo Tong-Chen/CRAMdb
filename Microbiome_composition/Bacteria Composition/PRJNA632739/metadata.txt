@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR11788805	Health	PRJNA632739	SAMN14918632	Fuzhou	China	ACTCCTACGGGAGGCAGCA	GGACTACHVGGGTWTCTAAT	Rattus norvegicus	Illumina HiSeq 2500	V3-V4
+SRR11788804	Health	PRJNA632739	SAMN14918633	Fuzhou	China	ACTCCTACGGGAGGCAGCA	GGACTACHVGGGTWTCTAAT	Rattus norvegicus	Illumina HiSeq 2500	V3-V4
+SRR11788795	Health	PRJNA632739	SAMN14918634	Fuzhou	China	ACTCCTACGGGAGGCAGCA	GGACTACHVGGGTWTCTAAT	Rattus norvegicus	Illumina HiSeq 2500	V3-V4

@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313771	Health	PRJEB32407	SAMEA5596989	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Cercopithecus ascanius	Illumina MiSeq	V4
+ERR3313772	Health	PRJEB32407	SAMEA5596990	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Cercopithecus ascanius	Illumina MiSeq	V4
+ERR3313773	Health	PRJEB32407	SAMEA5596991	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Cercopithecus ascanius	Illumina MiSeq	V4
+ERR3313774	Health	PRJEB32407	SAMEA5596992	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Cercopithecus ascanius	Illumina MiSeq	V4
+ERR3313775	Health	PRJEB32407	SAMEA5596993	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Cercopithecus ascanius	Illumina MiSeq	V4

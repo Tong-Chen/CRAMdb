@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9667995	Health	PRJNA553772	SAMN12250186	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone canadensis	Illumina MiniSeq	V4
+SRR9667996	Health	PRJNA553772	SAMN12250185	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone canadensis	Illumina MiniSeq	V4
+SRR9667998	Health	PRJNA553772	SAMN12250187	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone canadensis	Illumina MiniSeq	V4

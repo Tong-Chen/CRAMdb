@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5202787	Health	PRJNA368738	SAMN06270978	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Candidia temminck	Illumina MiSeq	V4

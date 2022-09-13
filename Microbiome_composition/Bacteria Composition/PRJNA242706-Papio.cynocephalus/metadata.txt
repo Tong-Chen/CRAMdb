@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR1209785	Health	PRJNA242706	SAMN02725480	Istanbul	Turkey	AGAGTTTGATYMTGGCTCAG	ATTACCGCGGCTGCTGG	Papio cynocephalus	454 GS FLX Titanium	V1-V3

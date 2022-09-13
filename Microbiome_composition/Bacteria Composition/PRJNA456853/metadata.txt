@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR7110406	Health	PRJNA456853	SAMN09062269	Chongqing	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Bactrocera dorsalis	Illumina HiSeq 2500	V4
+SRR7110407	Health	PRJNA456853	SAMN09062268	Chongqing	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Bactrocera dorsalis	Illumina HiSeq 2500	V4

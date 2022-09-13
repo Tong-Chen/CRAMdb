@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR1593135	Health	PRJEB15215	SAMEA4391930	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Balaenoptera acutorostrata	Illumina HiSeq 2000	V4
+ERR1593179	Health	PRJEB15215	SAMEA4391974	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Balaenoptera acutorostrata	Illumina HiSeq 2000	V4
+ERR1593181	Health	PRJEB15215	SAMEA4391976	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Balaenoptera acutorostrata	Illumina HiSeq 2000	V4

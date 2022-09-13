@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR174009	Health	PRJEB3302	SAMEA1531998	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Haliclona oculata	454 GS	V3-V5
+ERR174010	Health	PRJEB3302	SAMEA1531987	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Haliclona oculata	454 GS	V3-V5
+ERR174011	Health	PRJEB3302	SAMEA1532003	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Haliclona oculata	454 GS	V3-V5

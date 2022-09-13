@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR1593258	Health	PRJEB15215	SAMEA4392053	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Stenella longirostris	Illumina HiSeq 2000	V4
+ERR1593259	Health	PRJEB15215	SAMEA4392054	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Stenella longirostris	Illumina HiSeq 2000	V4
+ERR1593260	Health	PRJEB15215	SAMEA4392055	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Stenella longirostris	Illumina HiSeq 2000	V4

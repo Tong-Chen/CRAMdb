@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313736	Health	PRJEB32407	SAMEA5596954	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Papio anubis	Illumina MiSeq	V4
+ERR3313737	Health	PRJEB32407	SAMEA5596955	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Papio anubis	Illumina MiSeq	V4
+ERR3313742	Health	PRJEB32407	SAMEA5596960	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Papio anubis	Illumina MiSeq	V4
+ERR3313743	Health	PRJEB32407	SAMEA5596961	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Papio anubis	Illumina MiSeq	V4
+ERR3313745	Health	PRJEB32407	SAMEA5596963	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Papio anubis	Illumina MiSeq	V4

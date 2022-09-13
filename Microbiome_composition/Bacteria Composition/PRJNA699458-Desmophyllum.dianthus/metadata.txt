@@ -1,0 +1,8 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR13627692	Health	PRJNA699458	SAMN17777245	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4
+SRR13627713	Health	PRJNA699458	SAMN17777251	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4
+SRR13627714	Health	PRJNA699458	SAMN17777250	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4
+SRR13627715	Health	PRJNA699458	SAMN17777249	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4
+SRR13627716	Health	PRJNA699458	SAMN17777248	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4
+SRR13627717	Health	PRJNA699458	SAMN17777247	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4
+SRR13627718	Health	PRJNA699458	SAMN17777246	Petersburg	United States	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Desmophyllum dianthus	Illumina MiSeq	V3-V4

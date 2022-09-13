@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3250156	Health	PRJEB31855	SAMEA5535689	Wilhelmshaven	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Stichopus vastus	Illumina MiSeq	V4

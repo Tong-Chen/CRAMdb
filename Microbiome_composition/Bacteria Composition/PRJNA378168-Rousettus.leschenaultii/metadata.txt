@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5328929	Health	PRJNA378168	SAMN06554431	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Rousettus leschenaultii	Illumina HiSeq 2500	V4
+SRR5328930	Health	PRJNA378168	SAMN06554432	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Rousettus leschenaultii	Illumina HiSeq 2500	V4

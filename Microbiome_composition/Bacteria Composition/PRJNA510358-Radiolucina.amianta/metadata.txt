@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR8359626	Health	PRJNA510358	SAMN10615220	Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Radiolucina amianta	Illumina MiSeq	V4
+SRR8359627	Health	PRJNA510358	SAMN10615221	Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Radiolucina amianta	Illumina MiSeq	V4

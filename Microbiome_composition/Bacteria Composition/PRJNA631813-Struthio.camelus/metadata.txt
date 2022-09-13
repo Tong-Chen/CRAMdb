@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR11773858	Health	PRJNA631813	SAMN14892461	Luzhou	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Struthio camelus 	Illumina MiSeq	V3-V4
+SRR11773859	Health	PRJNA631813	SAMN14892460	Luzhou	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Struthio camelus 	Illumina MiSeq	V3-V4
+SRR11773860	Health	PRJNA631813	SAMN14892459	Luzhou	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Struthio camelus 	Illumina MiSeq	V3-V4

@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR7400925	Health	PRJNA476053	SAMN09386856	Leiden	Netherlands	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Xestospongia muta	Illumina MiSeq	V3-V4
+SRR7400926	Health	PRJNA476053	SAMN09386855	Leiden	Netherlands	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Xestospongia muta	Illumina MiSeq	V3-V4
+SRR7400927	Health	PRJNA476053	SAMN09386854	Leiden	Netherlands	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Xestospongia muta	Illumina MiSeq	V3-V4
+SRR7400943	Health	PRJNA476053	SAMN09386839	Leiden	Netherlands	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Xestospongia muta	Illumina MiSeq	V3-V4
+SRR7400944	Health	PRJNA476053	SAMN09386840	Leiden	Netherlands	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Xestospongia muta	Illumina MiSeq	V3-V4

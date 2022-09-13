@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5206469	Health	PRJNA368963	SAMN06274441	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Kogia sima	Illumina MiSeq	V4
+SRR5206470	Health	PRJNA368963	SAMN06274440	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Kogia sima	Illumina MiSeq	V4
+SRR5206471	Health	PRJNA368963	SAMN06274439	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Kogia sima	Illumina MiSeq	V4
+SRR5206472	Health	PRJNA368963	SAMN06274438	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Kogia sima	Illumina MiSeq	V4

@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR1593156	Health	PRJEB15215	SAMEA4391951	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Phocoena phocoena	Illumina HiSeq 2000	V4
+ERR1593158	Health	PRJEB15215	SAMEA4391953	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Phocoena phocoena	Illumina HiSeq 2000	V4
+ERR1593170	Health	PRJEB15215	SAMEA4391965	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Phocoena phocoena	Illumina HiSeq 2000	V4
+ERR1593183	Health	PRJEB15215	SAMEA4391978	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Phocoena phocoena	Illumina HiSeq 2000	V4

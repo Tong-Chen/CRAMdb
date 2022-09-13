@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR12717768	Health	PRJNA665805	SAMN16268824	Sao Paulo	Brazil	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Dragmacidon reticulatum	Illumina MiSeq	V4
+SRR12717767	Health	PRJNA665805	SAMN16268825	Sao Paulo	Brazil	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Dragmacidon reticulatum	Illumina MiSeq	V4
+SRR12717766	Health	PRJNA665805	SAMN16268826	Sao Paulo	Brazil	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Dragmacidon reticulatum	Illumina MiSeq	V4
+SRR12717765	Health	PRJNA665805	SAMN16268827	Sao Paulo	Brazil	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Dragmacidon reticulatum	Illumina MiSeq	V4
+SRR12717764	Health	PRJNA665805	SAMN16268828	Sao Paulo	Brazil	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Dragmacidon reticulatum	Illumina MiSeq	V4

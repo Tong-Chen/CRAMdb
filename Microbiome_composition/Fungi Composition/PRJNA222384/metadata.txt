@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR1019708	Health	PRJNA222384	SAMN02369774	Nebraska	United States	GGAAGTAAAAGTCGTAACAAGG	TCCTCCGCTTATTGATATGC	Anoplophora glabripennis	454 GS FLX+	ITS4-ITS5

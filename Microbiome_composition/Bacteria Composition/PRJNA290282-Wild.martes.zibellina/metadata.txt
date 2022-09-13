@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR2134980	Health	PRJNA290282	SAMN03938154	Qufu	China	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Wild martes zibellina	Illumina MiSeq	V3-V4
+SRR2134982	Health	PRJNA290282	SAMN03938155	Qufu	China	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Wild martes zibellina	Illumina MiSeq	V3-V4
+SRR2134983	Health	PRJNA290282	SAMN03938156	Qufu	China	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Wild martes zibellina	Illumina MiSeq	V3-V4

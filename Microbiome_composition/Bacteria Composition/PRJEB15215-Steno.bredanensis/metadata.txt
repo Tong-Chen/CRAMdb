@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR1593216	Health	PRJEB15215	SAMEA4392011	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Steno bredanensis	Illumina HiSeq 2000	V4
+ERR1593230	Health	PRJEB15215	SAMEA4392025	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Steno bredanensis	Illumina HiSeq 2000	V4
+ERR1593237	Health	PRJEB15215	SAMEA4392032	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Steno bredanensis	Illumina HiSeq 2000	V4
+ERR1593244	Health	PRJEB15215	SAMEA4392039	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Steno bredanensis	Illumina HiSeq 2000	V4
+ERR1593245	Health	PRJEB15215	SAMEA4392040	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Steno bredanensis	Illumina HiSeq 2000	V4

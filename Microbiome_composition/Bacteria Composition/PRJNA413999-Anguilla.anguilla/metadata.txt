@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR6487157	Health	PRJNA413999	SAMN07775724	Fuzhou	China	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Anguilla anguilla	Illumina MiSeq	V3-V4
+SRR6487158	Health	PRJNA413999	SAMN07775724	Fuzhou	China	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Anguilla anguilla	Illumina MiSeq	V3-V4
+SRR6489429	Health	PRJNA413999	SAMN07775724	Fuzhou	China	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Anguilla anguilla	Illumina MiSeq	V3-V4

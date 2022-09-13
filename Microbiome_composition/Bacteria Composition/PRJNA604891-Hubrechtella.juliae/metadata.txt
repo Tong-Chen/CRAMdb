@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR11027368	Health	PRJNA604891	SAMN14001649	Vladivostok	Russia	CCTACGGGNGGCWGCAG	GGACTACHVGGGTATCTAAT	Hubrechtella juliae	Illumina MiSeq	V3-V4
+SRR11027370	Health	PRJNA604891	SAMN14001649	Vladivostok	Russia	CCTACGGGNGGCWGCAG	GGACTACHVGGGTATCTAAT	Hubrechtella juliae	Illumina MiSeq	V3-V4
+SRR11027371	Health	PRJNA604891	SAMN14001649	Vladivostok	Russia	CCTACGGGNGGCWGCAG	GGACTACHVGGGTATCTAAT	Hubrechtella juliae	Illumina MiSeq	V3-V4

@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5202774	Health	PRJNA368738	SAMN06270988	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Glandirana rugosa	Illumina MiSeq	V4
+SRR5202775	Health	PRJNA368738	SAMN06270928	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Glandirana rugosa	Illumina MiSeq	V4
+SRR5202776	Health	PRJNA368738	SAMN06270987	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Glandirana rugosa	Illumina MiSeq	V4
+SRR5202777	Health	PRJNA368738	SAMN06270986	Braunschweig	Germany	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Glandirana rugosa	Illumina MiSeq	V4

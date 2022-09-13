@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9668001	Health	PRJNA553772	SAMN12250184	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Leucogeranus leucogeranus	Illumina MiniSeq	V4
+SRR9668002	Health	PRJNA553772	SAMN12250183	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Leucogeranus leucogeranus	Illumina MiniSeq	V4
