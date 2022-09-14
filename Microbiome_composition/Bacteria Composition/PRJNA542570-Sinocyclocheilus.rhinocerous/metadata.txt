@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9047044	Health	PRJNA542570	SAMN11633695	Kunming	China	GTGCCAGCMGCCGCGG	CCGTCAATTCMTTTRAGTTT	Sinocyclocheilus rhinocerous	Illumina MiSeq	V4-V5

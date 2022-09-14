@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR173985	Health	PRJEB3302	SAMEA1531992	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Crambe crambe	454 GS	V3-V5
+ERR173986	Health	PRJEB3302	SAMEA1531975	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Crambe crambe	454 GS	V3-V5

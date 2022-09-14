@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR2815175	Health	PRJEB28785	SAMEA4946349	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Sturnira lilium	Illumina HiSeq 2500	V4

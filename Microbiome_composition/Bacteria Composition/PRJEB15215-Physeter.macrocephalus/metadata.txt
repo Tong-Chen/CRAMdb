@@ -1,0 +1,7 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR1593221	Health	PRJEB15215	SAMEA4392016	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Physeter macrocephalus	Illumina HiSeq 2000	V4
+ERR1593229	Health	PRJEB15215	SAMEA4392024	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Physeter macrocephalus	Illumina HiSeq 2000	V4
+ERR1593267	Health	PRJEB15215	SAMEA4392062	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Physeter macrocephalus	Illumina HiSeq 2000	V4
+ERR1593268	Health	PRJEB15215	SAMEA4392063	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Physeter macrocephalus	Illumina HiSeq 2000	V4
+ERR1593269	Health	PRJEB15215	SAMEA4392064	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Physeter macrocephalus	Illumina HiSeq 2000	V4
+ERR1593270	Health	PRJEB15215	SAMEA4392065	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Physeter macrocephalus	Illumina HiSeq 2000	V4

@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR215681	Health	PRJEB1238	SAMEA1712781	Florida	United States	TAGATACCCSSGTAGTCC	CTGACGRCRGCCATGC	Reticulitermes flavipes	454 GS FLX Titanium	V5-V6

@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR1157610	Health	PRJNA237098	SAMN02614515	Connecticut	United States	CTAACCGANGAACCTYACC	CGACRRCCATGCANCACCT	Hirudo verbana	454 GS FLX Titanium	V6
+SRR1157611	Health	PRJNA237098	SAMN02614516	Connecticut	United States	CTAACCGANGAACCTYACC	CGACRRCCATGCANCACCT	Hirudo verbana	454 GS FLX Titanium	V6
+SRR1157612	Health	PRJNA237098	SAMN02614517	Connecticut	United States	CTAACCGANGAACCTYACC	CGACRRCCATGCANCACCT	Hirudo verbana	454 GS FLX Titanium	V6
+SRR1157613	Health	PRJNA237098	SAMN02614518	Connecticut	United States	CTAACCGANGAACCTYACC	CGACRRCCATGCANCACCT	Hirudo verbana	454 GS FLX Titanium	V6

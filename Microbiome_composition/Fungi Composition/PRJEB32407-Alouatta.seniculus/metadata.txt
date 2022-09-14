@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313719	Health	PRJEB32407	SAMEA5596937	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Alouatta seniculus	Illumina MiSeq	V4
+ERR3313720	Health	PRJEB32407	SAMEA5596938	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Alouatta seniculus	Illumina MiSeq	V4
+ERR3313721	Health	PRJEB32407	SAMEA5596939	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Alouatta seniculus	Illumina MiSeq	V4

@@ -1,0 +1,11 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR6847770	Health	PRJNA438647	SAMN08723098	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847771	Health	PRJNA438647	SAMN08723097	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847772	Health	PRJNA438647	SAMN08723090	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847773	Health	PRJNA438647	SAMN08723089	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847774	Health	PRJNA438647	SAMN08723092	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847775	Health	PRJNA438647	SAMN08723091	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847776	Health	PRJNA438647	SAMN08723094	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847777	Health	PRJNA438647	SAMN08723093	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847778	Health	PRJNA438647	SAMN08723096	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4
+SRR6847779	Health	PRJNA438647	SAMN08723095	North Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Daubentonia madagascariensis	Illumina MiSeq	V4

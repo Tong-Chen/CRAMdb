@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9003081	Health	PRJNA540818	SAMN11565581	Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Nycticebus pygmaeus	Illumina MiSeq	V4
+SRR9003082	Health	PRJNA540818	SAMN11565580	Carolina	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Nycticebus pygmaeus	Illumina MiSeq	V4

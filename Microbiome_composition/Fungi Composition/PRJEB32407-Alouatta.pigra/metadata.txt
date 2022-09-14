@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313716	Health	PRJEB32407	SAMEA5596934	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Alouatta pigra	Illumina MiSeq	V4
+ERR3313717	Health	PRJEB32407	SAMEA5596935	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Alouatta pigra	Illumina MiSeq	V4
+ERR3313718	Health	PRJEB32407	SAMEA5596936	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Alouatta pigra	Illumina MiSeq	V4

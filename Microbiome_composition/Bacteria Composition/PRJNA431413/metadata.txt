@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR6507033	Health	PRJNA431413	SAMN08391000	Kerala	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGG	Benthobatis moresbyi	Illumina MiSeq	V3

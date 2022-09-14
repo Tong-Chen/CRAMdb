@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR12714175	Health	PRJNA665590	SAMN16261645	Incheon	Korea	CCTAGGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Leptonychotes weddellii	Illumina MiSeq	V3-V4
+SRR12714176	Health	PRJNA665590	SAMN16261643	Incheon	Korea	CCTAGGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Leptonychotes weddellii	Illumina MiSeq	V3-V4
+SRR12714177	Health	PRJNA665590	SAMN16261641	Incheon	Korea	CCTAGGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Leptonychotes weddellii	Illumina MiSeq	V3-V4
+SRR12714182	Health	PRJNA665590	SAMN16261639	Incheon	Korea	CCTAGGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Leptonychotes weddellii	Illumina MiSeq	V3-V4
+SRR12714188	Health	PRJNA665590	SAMN16261637	Incheon	Korea	CCTAGGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Leptonychotes weddellii	Illumina MiSeq	V3-V4

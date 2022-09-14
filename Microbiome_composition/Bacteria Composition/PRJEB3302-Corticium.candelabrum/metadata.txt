@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR173983	Health	PRJEB3302	SAMEA1532000	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Corticium candelabrum	454 GS	V3-V5
+ERR173984	Health	PRJEB3302	SAMEA1531972	Blanes	Spain	CCTACGGGAGGCAGCAG	CCGTCAATTCMTTTGAGTTT	Corticium candelabrum	454 GS	V3-V5

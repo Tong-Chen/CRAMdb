@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR12360241	Health	PRJNA648940	SAMN15655377	Montana	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Galeocerdo cuvier	Illumina MiSeq	V4
+SRR12360311	Health	PRJNA648940	SAMN15655275	Montana	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Galeocerdo cuvier	Illumina MiSeq	V4
+SRR12360337	Health	PRJNA648940	SAMN15655356	Montana	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Galeocerdo cuvier	Illumina MiSeq	V4

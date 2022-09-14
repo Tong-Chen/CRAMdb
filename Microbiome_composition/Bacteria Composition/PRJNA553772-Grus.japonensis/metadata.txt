@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9667979	Health	PRJNA553772	SAMN12250213	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus japonensis	Illumina MiniSeq	V4
+SRR9667980	Health	PRJNA553772	SAMN12250214	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus japonensis	Illumina MiniSeq	V4
+SRR9667982	Health	PRJNA553772	SAMN12250212	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus japonensis	Illumina MiniSeq	V4

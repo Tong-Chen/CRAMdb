@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5950832	Health	PRJNA397174	SAMN07456830	Pennsylvania	United States	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Sabellidae	Illumina MiSeq	V1-V2
+SRR5950835	Health	PRJNA397174	SAMN07456831	Pennsylvania	United States	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Sabellidae	Illumina MiSeq	V1-V2
+SRR5950834	Health	PRJNA397174	SAMN07456832	Pennsylvania	United States	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Sabellidae	Illumina MiSeq	V1-V2

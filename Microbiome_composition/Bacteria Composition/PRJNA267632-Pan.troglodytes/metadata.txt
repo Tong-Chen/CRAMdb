@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR1659833	Health	PRJNA267632	SAMN03199080	Shanghai	China	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCT	Pan troglodytes	454 GS FLX	V3

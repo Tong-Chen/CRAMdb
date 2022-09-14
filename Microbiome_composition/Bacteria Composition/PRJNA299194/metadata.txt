@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR2748655	Health	PRJNA299194	SAMN04195114	Carolina	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Hymeniacidon heliophila	Illumina MiSeq	V4

@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR11363952	Health	PRJNA613835	SAMN14420919	Tanger	Morocco	CCTACGGGRSGCAGCAG	GACTACCAGGGTATCTAAT	Mayetiola destructor	Illumina MiSeq	V3-V4
+SRR11363953	Health	PRJNA613835	SAMN14420918	Tanger	Morocco	CCTACGGGRSGCAGCAG	GACTACCAGGGTATCTAAT	Mayetiola destructor	Illumina MiSeq	V3-V4
+SRR11363954	Health	PRJNA613835	SAMN14420917	Tanger	Morocco	CCTACGGGRSGCAGCAG	GACTACCAGGGTATCTAAT	Mayetiola destructor	Illumina MiSeq	V3-V4
+SRR11363955	Health	PRJNA613835	SAMN14420916	Tanger	Morocco	CCTACGGGRSGCAGCAG	GACTACCAGGGTATCTAAT	Mayetiola destructor	Illumina MiSeq	V3-V4

@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR7275335	Health	PRJNA474970	SAMN09378338	Western Australia	Australia	GTGCCAGCAGCCGCGGTAA	AATTCCTTTGAGTTT	Tenualosa ilisha	Illumina MiSeq	V4-V5
+SRR7275339	Health	PRJNA474970	SAMN09378340	Western Australia	Australia	GTGCCAGCAGCCGCGGTAA	AATTCCTTTGAGTTT	Tenualosa ilisha	Illumina MiSeq	V4-V5
+SRR7275340	Health	PRJNA474970	SAMN09378339	Western Australia	Australia	GTGCCAGCAGCCGCGGTAA	AATTCCTTTGAGTTT	Tenualosa ilisha	Illumina MiSeq	V4-V5

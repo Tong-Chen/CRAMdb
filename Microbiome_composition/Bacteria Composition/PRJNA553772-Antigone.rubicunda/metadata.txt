@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9667983	Health	PRJNA553772	SAMN12250191	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone rubicunda	Illumina MiniSeq	V4
+SRR9667984	Health	PRJNA553772	SAMN12250192	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone rubicunda	Illumina MiniSeq	V4
+SRR9667985	Health	PRJNA553772	SAMN12250193	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone rubicunda	Illumina MiniSeq	V4
+SRR9667993	Health	PRJNA553772	SAMN12250190	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Antigone rubicunda	Illumina MiniSeq	V4

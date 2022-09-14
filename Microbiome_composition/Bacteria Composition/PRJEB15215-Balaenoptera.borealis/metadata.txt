@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR1593136	Health	PRJEB15215	SAMEA4391931	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Balaenoptera borealis	Illumina HiSeq 2000	V4
+ERR1593137	Health	PRJEB15215	SAMEA4391932	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Balaenoptera borealis	Illumina HiSeq 2000	V4
+ERR1593138	Health	PRJEB15215	SAMEA4391933	Massachusetts	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT	Balaenoptera borealis	Illumina HiSeq 2000	V4

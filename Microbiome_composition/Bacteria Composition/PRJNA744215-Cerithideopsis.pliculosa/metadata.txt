@@ -1,0 +1,9 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR15091441	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091442	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091443	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091444	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091445	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091446	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091448	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4
+SRR15091449	Health	PRJNA744215	SAMN20082403	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis pliculosa	Illumina MiSeq	V4

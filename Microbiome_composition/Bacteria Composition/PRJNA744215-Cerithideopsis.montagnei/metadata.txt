@@ -1,0 +1,7 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR15091434	Health	PRJNA744215	SAMN20082399	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis montagnei	Illumina MiSeq	V4
+SRR15091435	Health	PRJNA744215	SAMN20082399	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis montagnei	Illumina MiSeq	V4
+SRR15091437	Health	PRJNA744215	SAMN20082399	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis montagnei	Illumina MiSeq	V4
+SRR15091438	Health	PRJNA744215	SAMN20082399	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis montagnei	Illumina MiSeq	V4
+SRR15091439	Health	PRJNA744215	SAMN20082399	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis montagnei	Illumina MiSeq	V4
+SRR15091440	Health	PRJNA744215	SAMN20082399	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithideopsis montagnei	Illumina MiSeq	V4

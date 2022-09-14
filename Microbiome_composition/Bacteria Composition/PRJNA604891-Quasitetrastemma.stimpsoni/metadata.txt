@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR11027365	Health	PRJNA604891	SAMN14001650	Vladivostok	Russia	CCTACGGGNGGCWGCAG	GGACTACHVGGGTATCTAAT	Quasitetrastemma stimpsoni	Illumina MiSeq	V3-V4
+SRR11027366	Health	PRJNA604891	SAMN14001650	Vladivostok	Russia	CCTACGGGNGGCWGCAG	GGACTACHVGGGTATCTAAT	Quasitetrastemma stimpsoni	Illumina MiSeq	V3-V4
+SRR11027367	Health	PRJNA604891	SAMN14001650	Vladivostok	Russia	CCTACGGGNGGCWGCAG	GGACTACHVGGGTATCTAAT	Quasitetrastemma stimpsoni	Illumina MiSeq	V3-V4

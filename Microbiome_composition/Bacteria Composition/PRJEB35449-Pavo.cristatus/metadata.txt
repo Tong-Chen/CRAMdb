@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3673388	Health	PRJEB35449	SAMEA6238952	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Pavo cristatus	Illumina HiSeq 2500	V4
+ERR3673401	Health	PRJEB35449	SAMEA6238965	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Pavo cristatus	Illumina HiSeq 2500	V4
+ERR3673402	Health	PRJEB35449	SAMEA6238966	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Pavo cristatus	Illumina HiSeq 2500	V4
+ERR3673467	Health	PRJEB35449	SAMEA6239031	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Pavo cristatus	Illumina HiSeq 2500	V4

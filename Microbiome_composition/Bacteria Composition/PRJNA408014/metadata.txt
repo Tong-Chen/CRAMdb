@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR6053311	Health	PRJNA408014	SAMN07673281	Kerala	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGG	Ophiophagus hannah	Illumina HiSeq 2500	V3
+SRR6053312	Health	PRJNA408014	SAMN07673281	Kerala	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGG	Ophiophagus hannah	Illumina HiSeq 2500	V3
+SRR6053313	Health	PRJNA408014	SAMN07673281	Kerala	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGG	Ophiophagus hannah	Illumina HiSeq 2500	V3
+SRR6053314	Health	PRJNA408014	SAMN07673281	Kerala	India	CCTACGGGAGGCAGCAG	ATTACCGCGGCTGCTGG	Ophiophagus hannah	Illumina HiSeq 2500	V3

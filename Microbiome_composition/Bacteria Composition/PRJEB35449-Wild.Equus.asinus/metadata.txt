@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3672999	Health	PRJEB35449	SAMEA6238562	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Wild equus asinus	Illumina HiSeq 2500	V4
+ERR3673061	Health	PRJEB35449	SAMEA6238624	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Wild equus asinus	Illumina HiSeq 2500	V4
+ERR3673108	Health	PRJEB35449	SAMEA6238671	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Wild equus asinus	Illumina HiSeq 2500	V4
+ERR3673115	Health	PRJEB35449	SAMEA6238678	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Wild equus asinus	Illumina HiSeq 2500	V4
+ERR3680758	Health	PRJEB35449	SAMEA6238562	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Wild equus asinus	Illumina HiSeq 2500	V4

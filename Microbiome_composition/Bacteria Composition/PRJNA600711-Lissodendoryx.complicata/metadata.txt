@@ -1,0 +1,9 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR10879038	Health	PRJNA600711	SAMN13830160	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879039	Health	PRJNA600711	SAMN13830159	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879041	Health	PRJNA600711	SAMN13830158	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879042	Health	PRJNA600711	SAMN13830157	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879043	Health	PRJNA600711	SAMN13830156	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879044	Health	PRJNA600711	SAMN13830155	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879045	Health	PRJNA600711	SAMN13830154	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4
+SRR10879046	Health	PRJNA600711	SAMN13830153	Dusternbrooker Weg	Germany	CCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Lissodendoryx complicata	Illumina MiSeq	V3-V4

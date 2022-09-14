@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9667992	Health	PRJNA553772	SAMN12250200	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus monacha	Illumina MiniSeq	V4
+SRR9668008	Health	PRJNA553772	SAMN12250203	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus monacha	Illumina MiniSeq	V4
+SRR9668009	Health	PRJNA553772	SAMN12250202	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus monacha	Illumina MiniSeq	V4
+SRR9668010	Health	PRJNA553772	SAMN12250201	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus monacha	Illumina MiniSeq	V4

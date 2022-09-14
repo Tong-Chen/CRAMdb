@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR8492241	Health	PRJNA517333	SAMN10827119	Valparaiso	Chile	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Argopecten purpuratus	Illumina MiSeq	V3-V4
+SRR8492242	Health	PRJNA517333	SAMN10827120	Valparaiso	Chile	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Argopecten purpuratus	Illumina MiSeq	V3-V4
+SRR8492243	Health	PRJNA517333	SAMN10827117	Valparaiso	Chile	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Argopecten purpuratus	Illumina MiSeq	V3-V4
+SRR8492244	Health	PRJNA517333	SAMN10827118	Valparaiso	Chile	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Argopecten purpuratus	Illumina MiSeq	V3-V4
+SRR8492245	Health	PRJNA517333	SAMN10827121	Valparaiso	Chile	CCTACGGGNGGCWGCAG	GACTACHVGGGTATCTAATCC	Argopecten purpuratus	Illumina MiSeq	V3-V4

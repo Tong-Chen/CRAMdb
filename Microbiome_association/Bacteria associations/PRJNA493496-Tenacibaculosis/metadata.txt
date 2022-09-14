@@ -1,0 +1,13 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR7908733	Health	PRJNA493496	SAMN10134873	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908734	Health	PRJNA493496	SAMN10134874	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908735	Health	PRJNA493496	SAMN10134871	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908736	Health	PRJNA493496	SAMN10134872	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908737	Health	PRJNA493496	SAMN10134877	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908739	Health	PRJNA493496	SAMN10134875	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908740	Health	PRJNA493496	SAMN10134876	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908744	Tenacibaculosis	PRJNA493496	SAMN10134913	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908749	Tenacibaculosis	PRJNA493496	SAMN10134919	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908760	Tenacibaculosis	PRJNA493496	SAMN10134911	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908775	Tenacibaculosis	PRJNA493496	SAMN10134909	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3
+SRR7908776	Tenacibaculosis	PRJNA493496	SAMN10134910	Singapore	Republic of Singapore	AGAGTTTGATCCTGGCTCAG	GCTGCCTCCCGTAGGAGT	Lates calcarifer	Illumina MiSeq	V1-V3

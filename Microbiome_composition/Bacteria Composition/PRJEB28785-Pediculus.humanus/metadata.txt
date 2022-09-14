@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR2815037	Health	PRJEB28785	SAMEA4946211	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Pediculus humanus	Illumina HiSeq 2500	V4
+ERR2815038	Health	PRJEB28785	SAMEA4946212	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Pediculus humanus	Illumina HiSeq 2500	V4

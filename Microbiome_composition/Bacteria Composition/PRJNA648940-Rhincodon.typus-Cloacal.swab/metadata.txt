@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR12360310	Health	PRJNA648940	SAMN15655251	Montana	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Rhincodon typus	Illumina MiSeq	V4
+SRR12360314	Health	PRJNA648940	SAMN15655248	Montana	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Rhincodon typus	Illumina MiSeq	V4
+SRR12360334	Health	PRJNA648940	SAMN15655230	Montana	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Rhincodon typus	Illumina MiSeq	V4

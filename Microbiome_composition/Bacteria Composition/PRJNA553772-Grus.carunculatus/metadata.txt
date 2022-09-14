@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR9667977	Health	PRJNA553772	SAMN12250180	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus carunculatus	Illumina MiniSeq	V4
+SRR9667978	Health	PRJNA553772	SAMN12250179	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus carunculatus	Illumina MiniSeq	V4
+SRR9667999	Health	PRJNA553772	SAMN12250182	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus carunculatus	Illumina MiniSeq	V4
+SRR9668000	Health	PRJNA553772	SAMN12250181	Pennsylvania	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Grus carunculatus	Illumina MiniSeq	V4

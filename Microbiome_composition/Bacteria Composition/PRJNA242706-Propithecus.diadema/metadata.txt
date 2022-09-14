@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR1219742	Health	PRJNA242706	SAMN02725485	Istanbul	Turkey	AGAGTTTGATYMTGGCTCAG	ATTACCGCGGCTGCTGG	Propithecus diadema	454 GS FLX Titanium	V1-V3

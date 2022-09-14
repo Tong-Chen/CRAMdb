@@ -1,0 +1,3 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR17015077	Health	PRJNA781598	SAMN23283072	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Isodictya palmata	Illumina MiSeq	V3-V4
+SRR17015078	Health	PRJNA781598	SAMN23283071	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Isodictya palmata	Illumina MiSeq	V3-V4

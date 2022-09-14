@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR15091447	Health	PRJNA744215	SAMN20082389	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithium atratum	Illumina MiSeq	V4
+SRR15091458	Health	PRJNA744215	SAMN20082389	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithium atratum	Illumina MiSeq	V4
+SRR15091469	Health	PRJNA744215	SAMN20082389	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithium atratum	Illumina MiSeq	V4
+SRR15091480	Health	PRJNA744215	SAMN20082389	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithium atratum	Illumina MiSeq	V4
+SRR15091481	Health	PRJNA744215	SAMN20082389	California	United States	GTGYCAGCMGCCGCGGTAA	ATTAGAWACCCBNGTAGTCC	Cerithium atratum	Illumina MiSeq	V4

@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5328927	Health	PRJNA378168	SAMN06554429	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Scotophilus heathi	Illumina HiSeq 2500	V4

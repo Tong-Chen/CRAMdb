@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5100721	Health	PRJNA354805	SAMN06051857	Puerto Rico	United States	GTGCCAAGCMGCCGCGGTAA	GTGCCAAGCMGCCGCGGTAA	Tetranychus evansi	454 GS FLX Titanium	V4

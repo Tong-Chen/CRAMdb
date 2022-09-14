@@ -1,0 +1,2 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR4220630	Health	PRJEB35927	SAMEA6932013	Munich	Germany	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Lendenfeldia chondrodes	Illumina MiniSeq	V4

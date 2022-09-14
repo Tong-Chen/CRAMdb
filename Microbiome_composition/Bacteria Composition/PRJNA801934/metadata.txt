@@ -1,0 +1,9 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR17833836	Health	ERR2173775	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833837	Health	ERR2173776	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833838	Health	ERR2173777	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833839	Health	ERR2173778	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833840	Health	ERR2173779	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833841	Health	ERR2173780	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833842	Health	ERR2173781	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4
+SRR17833843	Health	ERR2173782	Health	Sanya	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Peponocephala electra	Illumina HiSeq 2500	V4

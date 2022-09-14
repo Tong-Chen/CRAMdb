@@ -1,0 +1,15 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR6316043	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056142	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316049	Health	PRJNA419467	SAMN08056122	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316051	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056146	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316053	Health	PRJNA419467	SAMN08056120	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316054	Health	PRJNA419467	SAMN08056121	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316056	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056144	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316057	Health	PRJNA419467	SAMN08056119	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316058	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056143	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316063	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056145	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316065	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056141	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316066	Health	PRJNA419467	SAMN08056118	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316067	Heat.stress.and.Oceanospirillales.infected	PRJNA419467	SAMN08056140	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316068	Health	PRJNA419467	SAMN08056117	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3
+SRR6316072	Health	PRJNA419467	SAMN08056116	Townsville	Australia	AGRGTTTGATCMTGGCTCAG	GWATTACCGCGGCKGCTG	Montipora aequituberculata	454 GS FLX+	V1-V3

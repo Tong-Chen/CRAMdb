@@ -1,0 +1,7 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3078259	Health	PRJEB30873	SAMEA5229273	Minnesota	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Pygathrix nemaeus	Illumina MiSeq	V4
+ERR3078260	Health	PRJEB30873	SAMEA5229274	Minnesota	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Pygathrix nemaeus	Illumina MiSeq	V4
+ERR3078261	Health	PRJEB30873	SAMEA5229275	Minnesota	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Pygathrix nemaeus	Illumina MiSeq	V4
+ERR3078262	Health	PRJEB30873	SAMEA5229276	Minnesota	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Pygathrix nemaeus	Illumina MiSeq	V4
+ERR3078263	Health	PRJEB30873	SAMEA5229277	Minnesota	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Pygathrix nemaeus	Illumina MiSeq	V4
+ERR3078264	Health	PRJEB30873	SAMEA5229278	Minnesota	United States	GTGCCAGCMGCCGCGGTAA	TAATCTWTGGGVHCATCAGG	Pygathrix nemaeus	Illumina MiSeq	V4

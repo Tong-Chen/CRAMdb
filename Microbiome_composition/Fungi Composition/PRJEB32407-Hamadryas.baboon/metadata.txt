@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313735	Health	PRJEB32407	SAMEA5596953	British Columbia	Canada	CYGCGGTAATTCCAGCTC	GAGCTGGAATTACCGCYG	Papio hamadryas	Illumina MiSeq	V4
+ERR3313738	Health	PRJEB32407	SAMEA5596956	British Columbia	Canada	CYGCGGTAATTCCAGCTC	GAGCTGGAATTACCGCYG	Papio hamadryas	Illumina MiSeq	V4
+ERR3313739	Health	PRJEB32407	SAMEA5596957	British Columbia	Canada	CYGCGGTAATTCCAGCTC	GAGCTGGAATTACCGCYG	Papio hamadryas	Illumina MiSeq	V4
+ERR3313740	Health	PRJEB32407	SAMEA5596958	British Columbia	Canada	CYGCGGTAATTCCAGCTC	GAGCTGGAATTACCGCYG	Papio hamadryas	Illumina MiSeq	V4
+ERR3313741	Health	PRJEB32407	SAMEA5596959	British Columbia	Canada	CYGCGGTAATTCCAGCTC	GAGCTGGAATTACCGCYG	Papio hamadryas	Illumina MiSeq	V4

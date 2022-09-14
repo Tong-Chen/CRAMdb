@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR2287073	Health	PRJEB24881	SAMEA104571482	California	United States	GTACACACCGCCCGTC	TGATCCTTCTGCAGGTTCACCTAC	Coptodon rendalli	Illumina HiSeq 2500	V9
+ERR2287074	Health	PRJEB24881	SAMEA104571483	California	United States	GTACACACCGCCCGTC	TGATCCTTCTGCAGGTTCACCTAC	Coptodon rendalli	Illumina HiSeq 2500	V9
+ERR2287075	Health	PRJEB24881	SAMEA104571484	California	United States	GTACACACCGCCCGTC	TGATCCTTCTGCAGGTTCACCTAC	Coptodon rendalli	Illumina HiSeq 2500	V9

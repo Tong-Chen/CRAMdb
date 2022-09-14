@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR12101689	Health	PRJNA642229	SAMN15391209	Shanghai	China	TACGGRAGGCAGCAG	AGGGTATCTAATCCT	Anopheles sinensis	Illumina MiSeq	V4
+SRR12101690	Health	PRJNA642229	SAMN15391208	Shanghai	China	TACGGRAGGCAGCAG	AGGGTATCTAATCCT	Anopheles sinensis	Illumina MiSeq	V4
+SRR12101691	Health	PRJNA642229	SAMN15391207	Shanghai	China	TACGGRAGGCAGCAG	AGGGTATCTAATCCT	Anopheles sinensis	Illumina MiSeq	V4

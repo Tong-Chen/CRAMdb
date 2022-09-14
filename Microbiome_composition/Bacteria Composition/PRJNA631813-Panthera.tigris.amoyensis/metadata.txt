@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR11773851	Health	PRJNA631813	SAMN14892447	Luzhou	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Panthera tigris Amoyensis 	Illumina MiSeq	V3-V4
+SRR11773871	Health	PRJNA631813	SAMN14892449	Luzhou	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Panthera tigris Amoyensis 	Illumina MiSeq	V3-V4
+SRR11773872	Health	PRJNA631813	SAMN14892448	Luzhou	China	ACTCCTACGGGAGGCAGCAG	GGACTACHVGGGTWTCTAAT	Panthera tigris Amoyensis 	Illumina MiSeq	V3-V4

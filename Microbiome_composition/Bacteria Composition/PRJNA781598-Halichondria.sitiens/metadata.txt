@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR17015080	Health	PRJNA781598	SAMN23283070	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Halichondria sitiens	Illumina MiSeq	V3-V4
+SRR17015081	Health	PRJNA781598	SAMN23283069	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Halichondria sitiens	Illumina MiSeq	V3-V4
+SRR17015082	Health	PRJNA781598	SAMN23283068	Moscow	Russia	CCTACGGGNGGCWGCAG	GGACTACCVGGGTATCTAAT	Halichondria sitiens	Illumina MiSeq	V3-V4

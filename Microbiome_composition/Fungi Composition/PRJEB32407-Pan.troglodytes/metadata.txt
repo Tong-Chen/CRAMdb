@@ -1,0 +1,6 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR3313756	Health	PRJEB32407	SAMEA5596974	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Pan troglodytes	Illumina MiSeq	V4
+ERR3313757	Health	PRJEB32407	SAMEA5596975	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Pan troglodytes	Illumina MiSeq	V4
+ERR3313758	Health	PRJEB32407	SAMEA5596976	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Pan troglodytes	Illumina MiSeq	V4
+ERR3313759	Health	PRJEB32407	SAMEA5596977	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Pan troglodytes	Illumina MiSeq	V4
+ERR3313760	Health	PRJEB32407	SAMEA5596978	British Columbia	Canada	CYGCGGTAATTCCAGCTC	ARGGTATCTYATCYTCTTRG	Pan troglodytes	Illumina MiSeq	V4

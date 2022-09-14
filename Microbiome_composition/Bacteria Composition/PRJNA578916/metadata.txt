@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR10326107	Health	PRJNA578916	SAMN13087534	California	United States	GTGTGCCAGCMGCCGCGGTAA	CCGGACTACHVGGGTWTCTAAT	Macaca mulatta	Illumina MiSeq	V4
+SRR10326110	Health	PRJNA578916	SAMN13087531	California	United States	GTGTGCCAGCMGCCGCGGTAA	CCGGACTACHVGGGTWTCTAAT	Macaca mulatta	Illumina MiSeq	V4
+SRR10326111	Health	PRJNA578916	SAMN13087530	California	United States	GTGTGCCAGCMGCCGCGGTAA	CCGGACTACHVGGGTWTCTAAT	Macaca mulatta	Illumina MiSeq	V4
+SRR10326112	Health	PRJNA578916	SAMN13087529	California	United States	GTGTGCCAGCMGCCGCGGTAA	CCGGACTACHVGGGTWTCTAAT	Macaca mulatta	Illumina MiSeq	V4

@@ -1,0 +1,5 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+ERR2815049	Health	PRJEB28785	SAMEA4946223	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lipoptena cervi	Illumina HiSeq 2500	V4
+ERR2815050	Health	PRJEB28785	SAMEA4946224	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lipoptena cervi	Illumina HiSeq 2500	V4
+ERR2815051	Health	PRJEB28785	SAMEA4946225	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lipoptena cervi	Illumina HiSeq 2500	V4
+ERR2815052	Health	PRJEB28785	SAMEA4946226	California	United States	GTGCCAGCMGCCGCGGTAA	GGACTACHVHHHTWTCTAAT	Lipoptena cervi	Illumina HiSeq 2500	V4

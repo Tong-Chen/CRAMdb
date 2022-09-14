@@ -1,0 +1,4 @@
+SampleID	Group	Study_accession	Sample_accession	City	Country	LinkerPrimerSequence	ReversePrimer	Species	Platform	Hypervariable region
+SRR5328784	Health	PRJNA378168	SAMN06554423	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Myotis ricketti	Illumina HiSeq 2500	V4
+SRR5328786	Health	PRJNA378168	SAMN06554424	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Myotis ricketti	Illumina HiSeq 2500	V4
+SRR5328886	Health	PRJNA378168	SAMN06554425	Guangzhou	China	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTATCTAAT	Myotis ricketti	Illumina HiSeq 2500	V4
